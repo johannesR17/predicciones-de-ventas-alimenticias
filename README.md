@@ -9,7 +9,8 @@ El dataset propuesto denominado "sales_predictions" proviene del sitio web "Anal
 
 **Visualización**
 
-Exploración de datos para la inferencia estadística. - Se empleó gráficos como **histogramas**, **caja de bigotes** y un **mapa de calor** .
+Exploración de datos para la inferencia estadística. - Se empleó gráficos como **histogramas**, **caja de bigotes** y un **mapa de calor**.
+
 Datos explicativos. - Diagramas como **scatter plot** con seaborn, entre otros parámetros.
 
 **Resultados y recomendaciones**
